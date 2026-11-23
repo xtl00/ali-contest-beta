@@ -1,0 +1,2 @@
+[functions.recommend-frame]
+verify_jwt = false
